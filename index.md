@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+# FAANG Interview. Бортовые заметки сообщества
 
-You can use the [editor on GitHub](https://github.com/Semaserg/faang-interview.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Temp section, to be deleted
+[Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Введение
 
-### Markdown
+Этот репозиторий создан для “FAANG Interview” сообщества с целью упорядочить полезные ресурсы упоминаемые в чате. Каждая ссылка  в документе должна сопровождаться описанием. Не стесняемся слать pull реквесты и делать репозиторий лучше с каждым днем.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Аббревиатуры
 
-```markdown
-Syntax highlighted code block
+- FAANG - Facebook, Apple, Amazon, Netflix, Google. Usually also means Microsoft, Github, Linkedin, Instagram, Snapchat, Palantir, Bloomberg, IBM. For Russian Companies: Yandex, - VK, Kaspersky and JetBrains. 
+- LP - [Leadership Principles](https://www.aboutamazon.com/working-at-amazon/our-leadership-principles) (by Amazon)
+- CtCI - Cracking the Coding Interview (book)
+- SRE - Site Reliability Engineer
+- SWE/SE - Software Engineer
+- SDE - Software Development Engineer (Amazon)
+- SysDE - System Development Engineer (Amazon)
+- OA - Online Assessment
+- HC - Hiring Committee
+- HM - Hiring Manager
+- BR - [Bar Raiser](https://blog.aboutamazon.eu/working-at-amazon/what-is-a-bar-raiser-at-amazon) (Amazon)
+- LC - LeetCode
+- CP - Competitive programming
+- GCJ - Google Code Jam
+- CF - Codeforces
+- OJ - Online Judge
+- TLE - Time Limit Error 
+- WA - Wrong Answer
+- LN - Linkedin (must have professional social network)
+- CS - Computer science
+- DS - Data science
+- TC - Total compensation
+- CLRS - Introduction of Algorithms ([book](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844))
 
-# Header 1
-## Header 2
-### Header 3
+## Mock  интервью сообщества
 
-- Bulleted
-- List
+Мы проводим технические мок-интервью в парах каждую неделю, больше деталей о том как это проходит в [этом документе](https://docs.google.com/document/d/1n-7-U6y2Cr58AygViDWkiqtKRq_jQdsRNKOfc-Uw1xE/edit?usp=sharing) (док открыт для комментирования).
+[Гайд как проводить мок-интервью](https://docs.google.com/document/d/1cX5zhd5Yb3IlMA2smbs8XgQCIapgeQQ1LW-01DJ8W5M/edit#heading=h.54uirbe8rdgs).
 
-1. Numbered
-2. List
+## Разные полезные ссылки
 
-**Bold** and _Italic_ and `Code` text
+- Сайты где можно решать задачи:
+  - https://leetcode.com/
+  - https://www.interviewbit.com/
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Курсы, книги, статьи по алгоритмам и структурам данных
 
-### Jekyll Themes
+## Математика
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Semaserg/faang-interview.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Олимпиады по программированию
 
-### Support or Contact
+## Интересные задачи и списки задач
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## System Design Interview
+
+## Behavioral interview
+
+## Переговоры по офферу
+
+## Составление резюме
+
+## Проверка резюме
+
+## SRE
+
+## Frontend
+
+## Интернатура
+
+## Релокация
+
+## Разное
+
+## Английский
