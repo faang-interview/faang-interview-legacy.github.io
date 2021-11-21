@@ -49,23 +49,23 @@
  - http://larrr.com/ - блог Ларисы о Гугл, интервью, жизни в долине. 
   --Хочу работать в Google: Read Me First! - подборка материалов по подготовке
   -- https://t.me/empireinthemaking - телеграмм канал Ларисы
-Cracking the coding interview book 
-*Mock  интервью*
--- https://www.pramp.com/#/ -  парные мок интервью
--- http://www.gainlo.co/  платный. позволяет собеседоваться с реальными сотрудниками из ФААНГ. сайт гарантирует это. цена указывается своя на каждого интервьюера, от 100 до 200 долларов за мок. обещают подробный фидбэк после мока. Another opinion about the service.
--- https://interviewing.io/ - Practice interviewing with engineers from Google, Facebook, and more... anonymously. Price varies $100-200.
-*Гайды по подготовке к интервью*
--- [Interview preparation Guide](https://paper.dropbox.com/doc/Interview-Preparation-Guide-PHeQLxMXugqC1vz72wgtX) - подборка ссылок на полезные репозитории, видео, курсы, и книги.
--- [Ilyushin/google-interview-university](https://github.com/Ilyushin/google-interview-university): A complete daily plan for studying to become a Google software engineer. 
--- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
--- [Coding Interviews: Questions, Analysis & Solutions (Expert's Voice in Programming)](https://www.amazon.com/Coding-Interviews-Questions-Solutions-Programming-ebook/dp/B00ACC6AQY)
--- [Uber Software Developer Interview Prep](https://s3.amazonaws.com/ubercandidateprep/index.html) - подготовка к интервью в Uber
--- [The Interview Study Guide For Software Engineers](https://dev.to/seattledataguy/the-interview-study-guide-for-software-engineers-764) - DEV Community 
--- [Comprehensive Data Structure](https://leetcode.com/discuss/general-discussion/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide) and Algorithm Study Guide 
-[LinkedIn группа участников чата для обмена контактами](https://www.linkedin.com/groups/8951002/)
-[Статья про интервью в Амазон от одного из менеджеров](https://medium.com/@allo/%D0%BE-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-%D0%B2-%D0%B0%D0%BC%D0%B0%D0%B7%D0%BE%D0%BD-27e649323c4b)
-[Сервис для проверки своего резюме (гуглить боты ATS)](https://www.topcv.com/)
-[Подготовка к собеседованиям в IT-гиганты - Habr](https://habr.com/ru/post/499394/)
+- Cracking the coding interview book  - книга, ставшая классикой при подготовке
+- Mock  интервью
+  - https://www.pramp.com/#/ -  парные мок интервью
+  - http://www.gainlo.co/  платный. позволяет собеседоваться с реальными сотрудниками из ФААНГ. сайт гарантирует это. цена указывается своя на каждого интервьюера, от 100 до 200 долларов за мок. обещают подробный фидбэк после мока. Another opinion about the service.
+  - https://interviewing.io/ - Practice interviewing with engineers from Google, Facebook, and more... anonymously. Price varies $100-200.
+- Гайды по подготовке к интервью:
+  - [Interview preparation Guide](https://paper.dropbox.com/doc/Interview-Preparation-Guide-PHeQLxMXugqC1vz72wgtX) - подборка ссылок на полезные репозитории, видео, курсы, и книги.
+  - [Ilyushin/google-interview-university](https://github.com/Ilyushin/google-interview-university): A complete daily plan for studying to become a Google software engineer. 
+  - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+  - [Coding Interviews: Questions, Analysis & Solutions (Expert's Voice in Programming)](https://www.amazon.com/Coding-Interviews-Questions-Solutions-Programming-ebook/dp/B00ACC6AQY)
+  - [Uber Software Developer Interview Prep](https://s3.amazonaws.com/ubercandidateprep/index.html) - подготовка к интервью в Uber
+  - [The Interview Study Guide For Software Engineers](https://dev.to/seattledataguy/the-interview-study-guide-for-software-engineers-764) - DEV Community 
+  - [Comprehensive Data Structure](https://leetcode.com/discuss/general-discussion/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide) and Algorithm Study Guide 
+- [LinkedIn группа участников чата для обмена контактами](https://www.linkedin.com/groups/8951002/)
+- [Статья про интервью в Амазон от одного из менеджеров](https://medium.com/@allo/%D0%BE-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-%D0%B2-%D0%B0%D0%BC%D0%B0%D0%B7%D0%BE%D0%BD-27e649323c4b)
+- [Сервис для проверки своего резюме (гуглить боты ATS)](https://www.topcv.com/)
+- [Подготовка к собеседованиям в IT-гиганты - Habr](https://habr.com/ru/post/499394/)
 
 ## Курсы, книги, статьи по алгоритмам и структурам данных
 
