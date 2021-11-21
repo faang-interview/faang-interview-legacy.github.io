@@ -68,6 +68,63 @@
 - [Подготовка к собеседованиям в IT-гиганты - Habr](https://habr.com/ru/post/499394/)
 
 ## Курсы, книги, статьи по алгоритмам и структурам данных
+- Курсы
+  - [Курсы по алгоритмам от Роберта Седжвика Часть 1]()
+  - [Курсы по алгоритмам от Роберта Седжвика Часть 2]()
+  - [https://cses.fi/book/book.pdf]()  -  Вот хорошая книга для подготовки для интервью. Там и DP есть. Она в основном для тех кто готовится к олимпиадам, т.е. уровень выше, но покрывает и темы которые попадаются в интервью
+  - [Coderust: Hacking the Coding Interview]() - Платный курс (в текстовом виде) по алгоритмам и структурам данных 
+  - [Master the Coding Interview: Data Structures + Algorithms]() - курс на udemy
+  - [JavaScript (JS) Algorithms and Data Structures Masterclass]() - Курс ознакомляет с основными принципами решения задачек, основными алгоритмами и структурами данных
+  - [Coding Interview Bootcamp Algorithms, Data Structures Course]() На практике дает возможность решить самые популярные задачки, потом идет решение с его разбором с несколькими подходами. Показывает как на практике применять те или иные подходы и оценивать их сложности (big O) и выбирать лучшее решение.
+  - [Algorithmic Toolbox]() Курс для тех кто в начале пути. Поможет понять big-O, элементарные алгоритмы и подходы к ним.
+  - [Computer Sc - Data Structures and Algorithms ]() - видео курс
+  - [Algorithms | Computer science | Computing]() - курс по алгоритмам на Khan Academy
+  - [Grokking the Coding Interview: Patterns for Coding Questions платный курс “Patterns for Coding Questions”]()
+  - [Data Structures and Algorithms]() - coursera course
+  - [Алгоритмы: теория и практика. Методы]()
+  - [Introduction to Algorithms - course from MIT]()
+  - [Lectures in Advanced Data Structures (6.851) - MIT lectures by prof. Erik Demaine]()
+  - [Intro to Algorithms and Data Structures]() - от Google на Python (бесплатно, в конце есть разбор всех этапов онсайт интервью)
+  - [Лекции Андрея Станкевича: базовый курс]()
+  - [Лекции Андрея Станкевича: Дополнительные главы алгоритмов - продвинутый курс]()
+  - [https://algoprog.ru/]() - олимпиадное программирование
+- Книги
+  - [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne]() - более расширенный вариант курсов выше. слайды к книге
+  - [Computer Science Distilled: Learn the Art of Solving Computational Problems]()
+  - [Грокаем Алгоритмы. Иллюстрированное пособие для программистов и любопытствующих]()
+  - [Algorithms by Jeff Erickson]()
+  - [Data Structures and Algorithms in Python]() - книга по алгоритмам на Python
+  - [Problem Solving with Algorithms and Data Structures using Python]() - еще одна книга  по алгоритмам на Python
+  - [Introduction to Algorithms, 3rd Edition (The MIT Press)]()
+  - [Mathematics for Computer Science - book by Eric Lehman]()
+  - [Структуры данных и алгоритмы в Java]()
+- Разные полезности
+  - [Algorithms and Data Structures Cheatsheet]()
+  - [Algorithms and Complexity questions]() неожиданно сплошная теория
+  - [Dynamic programming & Backtracking]()
+  - [Dynamic Programming for Interviews]()  великолепная книга собирающая в себе Top-Down, Bottom Up approaches. Дающая методологию разбора задачи.
+  - [Dynamic Programming for Coding Interviews: A Bottom-Up approach to problem solving]() книга
+  - [Динамическое программирование (видео лекции)]() -  курс по динамическому программирования, отлично дает глубокое понимание этого подхода, а также возможность попрактиковаться на решении задач с их разбором
+  - [Backtracking introduction]() - geeksforgeeks
+  - [Grokking Dynamic Programming Patterns for Coding Interviews]() - платный курс по динамическом программированию
+  - [Grokking Algorithms]()  глава объясняющая KnapSack проблем.
+  - [Dynamic Programming lecture #1 - Fibonacci, iteration vs recursion]() - Errichto дает качественное объяснение приемов Dynamic Programming
+  - [Dynamic Programming lecture #2 - Coin change, double counting video]()
+  - [Dynamic Programming Patterns]()  карта задач.
+  - [Перебор. Жадные алгоритмы. Динамическое программирование]() - видео теория для школьников от Владимира Гуровиц.
+  - [What Is Dynamic Programming With Python Examples]() - объемная статья на тему динамического программирования с примерами
+Видео
+  - [Introduction to Big O Notation and Time Complexity]()
+  - [Плейлисты про решение задач на вайтборде]()
+  - [Видео курс по алгоритмам от автора Cracking the coding interview]()
+  - [Видео курс по структурам данных от автора Cracking the coding interview]()
+  - [Sorting Algorithms (slower, grouped and ordered)]() - анимация 26 сортировок (нечто похожее)
+  - [Back To Back SWE]() понравился этот канал. У парня хороший английский, он хорошо объясняет подходы к решению разных задач с описанием процесса решения, появления инсайтов
+  - [WilliamFiset - серия видео о теории графов]()
+  - [Списки видео: базовые алгоритмы и  чуть сложнее базовых]()
+  - [Видео разбор топ leetcode задач с ясным изложением на русском]()
+  - [Разбор 75 основных типовых задач на Leetcode]() - доходчивое изложение на английском.
+
 
 ## Математика
 
