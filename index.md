@@ -128,60 +128,105 @@
 
 ## Математика
 - Сайты: big-O, элементарные алгоритмы и подходы к ним.
-  - [Wumbo.net]() - Wumbo is a math reference site for students
+  - [Wumbo.net](https://wumbo.net/) - Wumbo is a math reference site for students
 - Курсы
-  - [Introduction to Discrete Mathematics for Computer Science]() - минимальный курс “все в одном” по дискретной математике. Покрывает минимум по важности математического доказательства, комбинаторике, теории вероятностей, теории графов, теории чисел и криптографии. 
-  - [Комбинаторика для начинающих]() - хороший вводной курс по комбинаторике. Очень доходчиво и наглядно показаны все основные комбинаторные величины.
-  - [Теория вероятностей для начинающих]() - вводной курс по теории вероятностей.
-  - [Теория графов]() - математический фундамент теории графов. Этот курс более ориентирован на именно “математику” нежели computer science.
+  - [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics) - минимальный курс “все в одном” по дискретной математике. Покрывает минимум по важности математического доказательства, комбинаторике, теории вероятностей, теории графов, теории чисел и криптографии. 
+  - [Комбинаторика для начинающих](https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh) - хороший вводной курс по комбинаторике. Очень доходчиво и наглядно показаны все основные комбинаторные величины.
+  - [Теория вероятностей для начинающих](https://www.coursera.org/learn/probability-theory-basics) - вводной курс по теории вероятностей.
+  - [Теория графов](https://www.coursera.org/learn/teoriya-grafov) - математический фундамент теории графов. Этот курс более ориентирован на именно “математику” нежели computer science.
 - Книги
-  - [Discrete Mathematics and Its Applications]() - лучшая книга по дискретной математике по многим критериям.
-  - [Discrete Mathematics with Combinatorics]() - еще одна довольно популярная книга по дискретке.
-  - [Applied Combinatorics]() - фундаментальный труд по прикладной комбинаторике. Продвинутый уровень.
-  - [Invitation to Number Theory]() - очень легкое введение в теорию чисел.
-  - [Number Theory and Its History]() - введение в теорию чисел с хорошим историческим очерком. Подойдет любителям разбавить скучные формулы каплей истории за этими формулами.
-  - [An Introduction to the Theory of Numbers]() - хорошая книжка по теории чисел от известного британского математика. Используется как учебное пособие в китайских вышах.
-  - [Elementary Number Theory and Its Application]() - фундаментальный труд по теории чисел.
-  - [Introduction to Linear Algebra]() - один из полнейших курсов по линейной алгебре.
+  - [Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Its-Applications-Seventh/dp/0073383090) - лучшая книга по дискретной математике по многим критериям.
+  - [Discrete Mathematics with Combinatorics](https://www.amazon.com/Discrete-Mathematics-Combinatorics-James-Anderson/dp/0130869988) - еще одна довольно популярная книга по дискретке.
+  - [Applied Combinatorics](https://www.amazon.com/Applied-Combinatorics-Mitchel-T-Keller/dp/1534878653) - фундаментальный труд по прикладной комбинаторике. Продвинутый уровень.
+  - [Invitation to Number Theory](https://www.amazon.com/Invitation-Number-Theory-Mathematical-Library/dp/0883856530) - очень легкое введение в теорию чисел.
+  - [Number Theory and Its History](https://www.amazon.com/dp/B00A73FH1W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - введение в теорию чисел с хорошим историческим очерком. Подойдет любителям разбавить скучные формулы каплей истории за этими формулами.
+  - [An Introduction to the Theory of Numbers](https://www.amazon.com/Introduction-Theory-Numbers-G-Hardy/dp/0199219869) - хорошая книжка по теории чисел от известного британского математика. Используется как учебное пособие в китайских вышах.
+  - [Elementary Number Theory and Its Application](https://www.amazon.com/Elementary-Number-Theory-Its-Application/dp/0321500318) - фундаментальный труд по теории чисел.
+  - [Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775) - один из полнейших курсов по линейной алгебре.
 
 ## Олимпиады по программированию
-  - [Как стать Red coder (Grandmaster) on Codeforces]()
-  - [E-Maxx Algorithms in English]();
-  - [Timus - High quality Online Judge with a lot of solutions on Github]();
-  - [Yaal (Yet another algorithm library) by Egor Kulikov]() - качественная библиотека на Java для олимпиад. Советую использовать в паре с [Intellij IDEA]() плагином. [Аналогичный плагин для С++ в CLion]().
-  - [Подготовка к ШАД](). (Учиться можно бесплатно из любой точки мира, но нужно сдать сложный экзамен).
+  - [Как стать Red coder (Grandmaster) on Codeforces](https://drive.google.com/file/d/1TSX395WuwyjzcchvLgSo4vhj_FQflMpi/view)
+  - [E-Maxx Algorithms in English](https://cp-algorithms.com/);
+  - [Timus - High quality Online Judge with a lot of solutions on Github](https://acm.timus.ru/);
+  - [Yaal (Yet another algorithm library) by Egor Kulikov](https://github.com/EgorKulikov/yaal) - качественная библиотека на Java для олимпиад. Советую использовать в паре с [Intellij IDEA](https://plugins.jetbrains.com/plugin/7091-chelper) плагином. [Аналогичный плагин для С++ в CLion](https://plugins.jetbrains.com/plugin/7541-jhelper).
+  - [Подготовка к ШАД](https://www.youtube.com/playlist?list=PLiSyTNGp2j5Oi8lhQYlloEAfKDCpPus6X). (Учиться можно бесплатно из любой точки мира, но нужно сдать сложный экзамен).
 
 ## Интересные задачи и списки задач
 - Общие принципы
-  - [Очередность Leetcode задач для новоприбывших.(чтобы меньше страдать)]() и ([объяснение по какому принципу они фильтровались)]()
+  - [Очередность Leetcode задач для новоприбывших.(чтобы меньше страдать)](https://docs.google.com/spreadsheets/d/1je6J87BX5C5fo5Gbok1TJncVK3-UFkiDznHUzhtHbVU/edit#gid=0) и ([объяснение по какому принципу они фильтровались)](https://leetcode.com/discuss/general-discussion/522705/1000-leetcode-problems-within-a-year)
   - [A LeetCode Grinding Guide - cscareerquestions]() - обсуждение как правильно начинать решать задачи на литкоде.
-  - [14 шаблонов, которые помогут ответить на любой вопрос по коду на 	собеседовании Вопросы на собеседованиях часто]() (это “переписка” курса Grokking the Coding Interview: Patterns for Coding Questions который уже указан выше)
+  - [14 шаблонов, которые помогут ответить на любой вопрос по коду на 	собеседовании Вопросы на собеседованиях часто](https://tproger.ru/translations/14-templates-to-answer-interview-questions/) (это “переписка” курса Grokking the Coding Interview: Patterns for Coding Questions который уже указан выше)
 - Отдельные задачи
-  - [Palindromic Substrings]() - задача с колл в Uber
-  - [Разбор задачи с собеседования в Google: синонимичные запросы]()
-  - [Решаем задачу из интервью Google на JavaScript: 4 разных способа]()
-  - [Google Interview Problems: Ratio Finder]()
+  - [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) - задача с колл в Uber
+  - [Разбор задачи с собеседования в Google: синонимичные запросы](https://m.habr.com/ru/post/437702/)
+  - [Решаем задачу из интервью Google на JavaScript: 4 разных способа](https://m.habr.com/ru/company/skillbox/blog/443886/)
+  - [Google Interview Problems: Ratio Finder](https://medium.com/@alexgolec/google-interview-problems-ratio-finder-d7aa8bf201e3)
 - Подборки задач
-  - https://www.interviewbit.com/courses/programming/  - подборка задач по темам от interviewbit
-  - [List of Top 75 LeetCode Questions to Save Your Time]() 
-  - [Amazon Online Assessment Questions]()  из них было Critical Routers, и Product Suggestions
-  - [Amazon Final Interview Questions | SDE1]() 
-  - [Leetcode questions by likes/dislikes ratio]()
+  - [https://www.interviewbit.com/courses/programming/](https://www.interviewbit.com/courses/programming/)  - подборка задач по темам от interviewbit
+  - [List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) 
+  - [Amazon Online Assessment Questions](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)  из них было Critical Routers, и Product Suggestions
+  - [Amazon Final Interview Questions | SDE1](https://leetcode.com/discuss/interview-question/488887/amazon-final-interview-questions-sde1) 
+  - [Leetcode questions by likes/dislikes ratio](https://docs.google.com/spreadsheets/d/1LXSO4_Kz_1JMqoZMMuvhpBI99kvsZA4vSSCRAznqnXM/edit?usp=sharing)
   - [Leetcode Patterns]()
 - Видео
-  - [Binary Search with Duplicates video]()
-  - [Mock Google interview (for Software Engineer job) - coding & algorithms tips]()
+  - [Binary Search with Duplicates video](https://seanprashad.com/leetcode-patterns/)
+  - [Mock Google interview (for Software Engineer job) - coding & algorithms tips](https://www.youtube.com/watch?v=IWvbPIYQPFM)
 - Разное
-  - https://geeksforgeeks.org - разбор множества задач и алгоритмов
-  - [Anagram Substring Search (Or Search for all permutations)]()
-  - [Construct tree from ancestor matrix]()
-  - [Top 10 algorithms in Interview Questions]()
-  - [Bit Tricks for Competitive Programming]()
+  - [https://geeksforgeeks.org](https://www.geeksforgeeks.org/) - разбор множества задач и алгоритмов
+  - [Anagram Substring Search (Or Search for all permutations)](https://www.geeksforgeeks.org/anagram-substring-search-search-permutations/)
+  - [Construct tree from ancestor matrix](https://www.geeksforgeeks.org/construct-tree-from-ancestor-matrix/)
+  - [Top 10 algorithms in Interview Questions](https://www.google.com/amp/s/www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/amp/)
+  - [Bit Tricks for Competitive Programming](https://www.geeksforgeeks.org/bit-tricks-competitive-programming/)
 
 
 ## System Design Interview
+- Все сразу
+  - [Grokking the System Design Interview в 99%](https://www.educative.io/courses/grokking-the-system-design-interview) в первую очередь вам посоветуют пройти курс [(Grokking the System Design Interview - Part 3 )](https://coursehunters.online/t/educative-io-design-gurus-grokking-the-system-design-interview-part-3/581)
+  - [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview)
+  - [System-design-primer](https://github.com/donnemartin/system-design-primer) Популярный сборник разного по SDI 
+  - [System Design Interview Step By Step Guide](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ/videos). Youtube channel 
+  - [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347) - книга говорят бомба типа data intensive
+  - [Building Microservices: Designing Fine-Grained Systems: Newman, Sam: 9781491950357](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358) - очень хорошая книга про разработку микросервисов, легко читается, много хороших практик
+  - [Distributed Systems: Principles and Paradigms: Tanenbaum, Andrew S., van Steen, Maarten: 9780130888938](https://www.amazon.com/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/0130888931) - хорошая популярная книга по распределенным системам, не могу сказать, что читается легко, но стоящая
+  - [https://landing.google.com/sre/books/](https://landing.google.com/sre/books/)  не пугайтесь что про SRE, для SWE можно кой чего пропустить - но есть очень много примеров дизайнов, решений которые были приняты и почему, очень очень хорошее описание что такое load balancing например
+  - [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236) - Еще про load balancer, но это уже чуть подробней чем надо SWE обычно, 
+  - [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.wskogqenq) - сравнение и описание различных NoSQL систем. Отличие статьи в более практическом анализе - для каких задач, какой тип хранилища подойдет лучше.
+  - [System Design Interview Video. Rate Limiting (local and distributed)](https://youtu.be/FU4WlwfS3G0?list=LLVmH0b-Ae4v-ow9l2f5c5bw)
+  - [Prepare for Your Google Interview: Systems Design](https://www.youtube.com/watch?v=Gg318hR5JY0) неожиданно крутое новое видео по system design от Life at Google
+  - [Object-Oriented Design](https://leetcode.com/discuss/interview-question/object-oriented-design?currentPage=1&orderBy=hot&query=) - список вопросов с литкода
+  - Старые статьи с DOU о консенсус-протоколах: [раз](https://dou.ua/lenta/articles/12-konsensus-protocols), [два](https://dou.ua/lenta/articles/konsensus-protocols-2/)
+  - [Raft](http://thesecretlivesofdata.com/raft). Объяснение RAFT на пальцах с красивыми диаграммками. Можете даже показать свой маме!
+  - [Grokking the Mobile System Design interview](https://medium.com/@goncharov.artemv/grokking-the-mobile-system-design-interview-6a06fa94491b?source=friends_link&sk=5d35ee6ade621e3a8018e048d25f6009) - По мотивам систем дизайн собесов в ФБ и Гугл на мобильщика написал статейку. 
+  - [A Simple Framework For Mobile System Design Interviews](https://github.com/weeeBox/mobile-system-design) - структурированный подход к прохождению систем дизайн интервью для iOS/Android разработчиков.
+- Видео
+  - [Software Design Patterns and Principles (quick overview)](https://www.youtube.com/watch?v=WV2Ed1QTst8) 
+  - [Success in Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/featured) - канал о подготовке к интервью, есть видео о дизайне
+  - [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ) канал по дизайн интервью
+лучше/популярней и понятней лекций по Raft/Paxos я не видел, а глубже наверно только статьи читать: [Raft lecture](https://www.youtube.com/watch?v=YbZ3zDzDnrw), [Paxos lecture](https://www.youtube.com/watch?v=JEpsBg0AO6o)
+  - [System design interview questions](https://www.youtube.com/watch?v=UzLMhqg3_Wc&list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2) - плейлист про дизайн интервью с канала [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
+  - [https://www.codekarle.com/](https://www.codekarle.com/) 
+
+- Papers
+  - [Cassandra](https://www.datastax.com/sites/default/files/content/whitepaper/files/2019-09/DataStax-WP-Apache-Cassandra-Architecture.pdf).Можно погуглить разные описания систем. Поисковый запрос вида "BigTable paper" или "MapReduce paper".
+
+- Воркшопы
+  - [Workshop от Google](https://sre.google/classroom/distributed-pubsub/) по *non-abstract large systems design* на примере *Publish-Subscribe system* 
+
 
 ## Behavioral interview
+- Видео
+  - видео которое рекомендуют везде: [Episode 07: Intro to Behavioural Interviews](https://www.youtube.com/watch?v=PJKYqLP6MRE)
+  - Тематический канал [Дена Кройтора](https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ/playlists), много инфы и примеров по Amazon LP, FB, Netflix
+- Почитать
+  - [Behavioral Interview. Топики на эту тему на блаинде](https://www.teamblind.com/issue/13246/Behavioral-Interview)
+  - Cracking the Coding Interview pages 32-38
+  - [The Situation-Behavior-Impact-Feedback Tool - From MindTools.com](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm)
+  - [https://leetcode.com/explore/interview/card/leapai/](https://leetcode.com/explore/interview/card/leapai/)
+  - Блог bar-raiser из Amazon об их LP: [Interviewing at Amazon — Leadership Principles - Dave Anderson](https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d) 
+  - [Amazon Behavioral questions | Leadership Principles | LP](https://leetcode.com/discuss/interview-question/437082/amazon-behavioral-questions-leadership-principles-lp)  Тут ещё один товарищ из этого чата поучаствовал в эвенте, и у нас у обоих было одинаково: всё вопросы на LP & Behavior были слово в слово из этого списка 
+  - Если это нетфликс или амазон там нужно читать их пейперы по кор вельюсам и быть готовы к вопросам показывающим как ты им соответствуешь.
+  - [Что спрашивают на behavioral и system design интервью, или Как я попал в Facebook](https://dou.ua/lenta/articles/behavioral-system-design-interview-fb/) 
+
 
 ## Переговоры по офферу
 
