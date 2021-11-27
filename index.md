@@ -229,12 +229,62 @@
 
 
 ## Переговоры по офферу
+  - [How to Negotiate Your Job Offer - Prof. Deepak Malhotra (Harvard Business School) Video]()
+  - [Ten Rules for Negotiating a Job Offer]()
+  - [Patrick McKenzie | Salary Negotiation: Make More Money, Be More Valued]()
+  - [Salary Negotiation with Haseeb Qureshi]()
+  - [How Not to Bomb Your Offer Negotiation]()
+  - [How I negotiated a $300,000 offer in Silicon Valley]() 
+  - [Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company]()
+
+## После принятия оффера (в другую страну)
+  - Во избежание конфликтов - не говорите своему работодателю что у вас офер. Скажите когда будет виза. Разница между офером и визой может достигать 12 месяцев.
+  - Сразу поговорите с рекрутером о том, чтобы его кто-то заменил в случае если он внезапно уйдет в отпуск на 2-3 недели - в Европе это любят. Тоже самое с Project manager.
+  - Будет Background check. Сразу подготовьте список всех работодателей и доказательство того, что вы там работали. 
+  - Сразу подготовьте документы в электронном виде. Скан паспорта, загранпаспорта, для Украины (налоговый код, справка о не судимости), диплом. Пожалуйста, допишите для других стран снг
+  - Это все для того, чтобы сэкономить вам от 2 до 4 месяцев. Рекрутеры совсем не торопятся. И могут тянуть из вас документы по одному в неделю. Поэтому приготовьте все сразу. 
 
 ## Составление резюме
-
+- От Ларисы
+  - [Пример хорошего резюме]()
+  - [resume Archives]() - раздел о резюме в блоге Ларисы.
+  - [Resume Checklist или Как Делать Не Надо]()
+  - [Список ключевых слов-достижений]()
+  - [Список активных глаголов для резюме, разбитый по категориям]()
+  - [Как отвечать на вопросы на интервью]()
+- Видео
+  - [Советы от гугл рекрутеров]()
+  - [7 Tips for the Coding Resume (for Software Engineers) video]()
+- Шаблоны
+  - [Result oriented resume templates.]()
 ## Проверка резюме
+По вторникам и субботам в [/r/cscareequestions]() создаются “Resume Advice” тредs, где можно получить фидбек.
+Телеграм канал для обсуждения резюме: [resume_review]()
+[Rooftop Slushie - платно]()
 
 ## SRE
+- Разное
+  - [Linux Technical Interview Questions and Answers  (Linux)]() - платный курс
+  - [My Job Interview at Google]()  Google SRE interview on SRE
+  - [What happens when we hit URL in Browser?]() 
+  - [SYSADMIN. The Systems Engineering Side of Site Reliability Engineering]()
+  - [SYSADMIN. Hiring Site Reliability Engineers]()
+  - [https://github.com/mxssl/sre-interview-prep-guide]()
+- Почитать
+  - [Site Reliability Engineering]() книга
+  - [Linux System Programming: Talking Directly To The Kernel And C Library]() 
+  - [Systems Performance: Enterprise and the Cloud](), сайт автора [http://www.brendangregg.com]() 
+  - [BPF Performance Tools (Addison-Wesley Professional Computing Series)]() снова  (http://www.brendangregg.com)   
+  - [Operating Systems: Three Easy Pieces]()
+  - [The Linux Programming Interface: A Linux and UNIX System Programming Handbook]()
+  - [Grokking the Mobile System Design interview ]()- По мотивам систем дизайн собесов в ФБ и Гугл на мобильщика написал статейку.
+  - [Yet another mobile architectures comparison]()
+  - [Mobile architecture optimization topics]().
+  - [The System Design Interview For Mobile Developers]().
+  - [Что спрашивают на behavioral и system design интервью, или Как я попал в Facebook]().
+  - [Pagination]().
+  - [A Simple Framework For Mobile System Design Interviews]() - структурированный подход к прохождению систем дизайн интервью для iOS/Android разработчиков.
+
 
 ## Frontend
 
