@@ -72,8 +72,8 @@
   - [JavaScript (JS) Algorithms and Data Structures Masterclass](https://www.udemy.com/js-algorithms-and-data-structures-masterclass/) - Курс ознакомляет с основными принципами решения задачек, основными алгоритмами и структурами данных
   - [Coding Interview Bootcamp Algorithms, Data Structures Course](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/) На практике дает возможность решить самые популярные задачки, потом идет решение с его разбором с несколькими подходами. Показывает как на практике применять те или иные подходы и оценивать их сложности (big O) и выбирать лучшее решение.
   - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox?specialization=data-structures-algorithms) Курс для тех кто в начале пути. Поможет понять big-O, элементарные алгоритмы и подходы к ним.
-  - [Computer Sc - Data Structures and Algorithms ](https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F) - видео курс
-  - [Algorithms | Computer science | Computing](https://www.khanacademy.org/computing/computer-science/algorithms) - курс по алгоритмам на Khan Academy
+  - [Computer Sc - Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F) - видео курс
+  - [Algorithms, Computer science, Computing](https://www.khanacademy.org/computing/computer-science/algorithms) - курс по алгоритмам на Khan Academy
   - [Grokking the Coding Interview: Patterns for Coding Questions платный курс “Patterns for Coding Questions”](https://www.educative.io/courses/grokking-the-coding-interview)
   - [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) - coursera course
   - [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/syllabus)
