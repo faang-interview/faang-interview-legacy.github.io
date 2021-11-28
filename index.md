@@ -288,107 +288,107 @@
 
 ## Frontend
 - Разное
-  - https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823?gi=1d9930d41bfb - Описание общего объема желательных знаний на позицию Frontend-инженера со ссылками где почитать. Ссылки из статьи на доп. Ресурсы:
-  - Frontend Job Interview Questions — The largest Github repository of frontend interview questions
-  - Cracking the Frontend Interview — A guide by Jonathan White, a Twitter engineer, on how to prepare for frontend interviews
-  - Frontend Developer Handbook 2018 — A guide on Frontend Development and interview preparation created by Frontend Masters
-  - Cracking the Frontend Coding Interview — An article by Alex Pattison, an engineer at Yola, on questions and answers for frontend interviews
-  - https://www.pramp.com/ - Тут есть возможность практиковаться в интервью по тематике Frontend
-  - http://gainlo.co - Платный ресурс для Mock-интервью в том числе по Frontend System Design. Дают развернутый фидбек.
-  - Большой док по фронтенд подготовке в FAANG
-  - System Design for Front End Engineers
-  - Leetcode-like портал, сфокусированный на фронтенде
+  - [https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823?gi=1d9930d41bfb](https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823?gi=1d9930d41bfb) - Описание общего объема желательных знаний на позицию Frontend-инженера со ссылками где почитать. Ссылки из статьи на доп. Ресурсы:
+  - [Frontend Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  — The largest Github repository of frontend interview questions
+  - [Cracking the Frontend Interview](https://medium.freecodecamp.org/cracking-the-front-end-interview-9a34cd46237)  — A guide by Jonathan White, a Twitter engineer, on how to prepare for frontend interviews
+  - [Frontend Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)  — A guide on Frontend Development and interview preparation created by Frontend Masters
+  - [Cracking the Frontend Coding Interview](https://blog.usejournal.com/cracking-the-frontend-coding-interview-ec7d5b1e6755)  — An article by Alex Pattison, an engineer at Yola, on questions and answers for frontend interviews
+  - [https://www.pramp.com/](https://www.pramp.com/) - Тут есть возможность практиковаться в интервью по тематике Frontend
+  - [http://gainlo.co](http://gainlo.co)  - Платный ресурс для Mock-интервью в том числе по Frontend System Design. Дают развернутый фидбек.
+  - [Большой док по фронтенд подготовке в FAANG](https://www.notion.so/evgeniiray/Front-End-Preparation-a0ac842415a04ddf9319718ea6ba22a4) 
+  - [System Design for Front End Engineers](https://www.youtube.com/channel/UC6YpkaZsAcAvPNt4rLiS7dg) 
+  - [Leetcode-like портал, сфокусированный на фронтенде](https://bigfrontend.dev/) 
 
 ## Интернатура
-  - Summer 2020 Internships
-  - Статьи о стажировке в фаанг
-  - Стажировки в международных компаниях: как не завалить интервью и получить заветный оффер
-  - Как попасть на стажировку в Google 
-  - Как попасть на 5 стажировок в ФААНГ
+  - [Summer 2020 Internships](https://github.com/elaine-zheng/summer2020internships) 
+  - [Статьи о стажировке в фаанг](https://dou.ua/lenta/tags/путь%20стажера/) 
+  - [Стажировки в международных компаниях: как не завалить интервью и получить заветный оффер](https://habr.com/ru/company/hsespb/blog/472644/) 
+  - [Как попасть на стажировку в Google](https://habr.com/ru/company/hsespb/blog/432912/)  
+  - [Как попасть на 5 стажировок в ФААНГ](https://youtu.be/YhuZ7lb8rGE) 
 
 ## Релокация
-  - Релокация в Сингапур: история украинского архитектора Хорошая статья о жизни в Сингапуре, финансах и т.д.
-  - Как попасть в Кремниевую Долину. Video 
-  - https://t.me/FbCovid - мини группа для обсуждения переезда в ФБ Лондон в текущей ситуации с вирусом. Для тех, кто сейчас находится в процессе обсуждения офера или уже подписал его, но еще не переехал из-за вируса
-  - https://t.me/canada_it - чатик айтишников по канаде + полезные чаты по канаде https://canadakaknado.info/#chats
-  - https://relhut.com/visa-sponsors - список спонсоров Tier 2 визы, не только FAANG
-  - https://relhut.com/salary-calculator  - калькурятор базовой зарплаты в ЮК для технических позиций
+  - [Релокация в Сингапур: история украинского архитектора](https://dou.ua/lenta/articles/relocation-to-singapore/) . Хорошая статья о жизни в Сингапуре, финансах и т.д.
+  - [Как попасть в Кремниевую Долину. Video](https://youtu.be/bsrW1qQGKcQ)  
+  - [https://t.me/FbCovid](https://t.me/FbCovid)  - мини группа для обсуждения переезда в ФБ Лондон в текущей ситуации с вирусом. Для тех, кто сейчас находится в процессе обсуждения офера или уже подписал его, но еще не переехал из-за вируса
+  - [https://t.me/canada_it](https://t.me/canada_it)  - чатик айтишников по канаде + полезные чаты по Канаде [https://canadakaknado.info/#chats](https://canadakaknado.info/#chats) 
+  - [https://relhut.com/visa-sponsors](https://relhut.com/visa-sponsors)  - список спонсоров Tier 2 визы, не только FAANG
+  - [https://relhut.com/salary-calculator](https://relhut.com/salary-calculator)   - калькурятор базовой зарплаты в ЮК для технических позиций
 
 ## Разное
 - Истории из жизни:
-  - Why I studied full-time for 8 months for a Google interview - Статья про подготовку в Google за 8 месяцев ( ) +русская версия 
-  - Про то, как я попал на интервью в Microsoft Ireland
-  - Подготовка к собеседованию в Microsoft: polycode 
-  - Как подготовиться к собеседованию в Google и не пройти его. Дважды
+  - [Why I studied full-time for 8 months for a Google interview](https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13/)  - Статья про подготовку в Google за 8 месяцев() + [русская версия](https://proglib.io/p/8-month-for-google-interview/)  
+  - [Про то, как я попал на интервью в Microsoft Ireland](https://medium.com/@ykurmangaliyev/%D0%BF%D1%80%D0%BE-%D1%82%D0%BE-%D0%BA%D0%B0%D0%BA-%D1%8F-%D0%BF%D0%BE%D0%BF%D0%B0%D0%BB-%D0%BD%D0%B0-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E-%D0%B2-microsoft-ireland-86a3101b335a) 
+  - [Подготовка к собеседованию в Microsoft: polycode](https://polycode.livejournal.com/29426.html) 
+  - [Как подготовиться к собеседованию в Google и не пройти его. Дважды](https://habr.com/ru/post/419945/) 
 - Солянка
-  - Комбинаторика: основные правила и формулы.
-  - Видео на Khan Academy по комбинаторике  (и потом второй блок, там же) - учит выводить комбинаторные формулы (permutations, combinations) на ходу, прикидыванием, а не запоминать их.
-  - Вся правда о собеседованиях в Google: за пределами NDA
-  - Amazon Banned Questions
-  - Amazon 1st round Interview questions (manager level) 
-  - Levels.fyi: Compare salaries and career levels across companies 
+  - Комбинаторика: основные правила и формулы](https://ya-znau.ru/znaniya/zn/80) .
+  - Видео на Khan Academy по комбинаторике](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/factorial-and-counting-seat-arrangements)   (и потом [второй блок](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations), там же) - учит выводить комбинаторные формулы (permutations, combinations) на ходу, прикидыванием, а не запоминать их.
+  - [Вся правда о собеседованиях в Google: за пределами NDA](http://blogerator.org/page/google) 
+  - [Amazon Banned Questions](https://docs.google.com/spreadsheets/d/1bJRbxssWmP5C8iv5MQvOkh4k2LeCgLsjbaosrIBVPf0/edit#gid=0) 
+  - [Amazon 1st round Interview questions (manager level)](https://www.reddit.com/r/ITCareerQuestions/comments/cz9ctv/amazon_1st_round_interview_questions_manager_level/?utm_medium=android_app&utm_source=share)  
+  - [Levels.fyi: Compare salaries and career levels across companies](https://www.levels.fyi/)  
 - Книги
-  - Introduction to Information Retrieval (на русском Вильямс книга Введение в информационный поиск )
+  - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf) (на русском [Вильямс книга Введение в информационный поиск)](http://www.williamspublishing.com/Books/978-5-8459-1623-5.html) 
 Сайты для изучения программирования
-  - Interview Practice  - средние между leetcode и codewars 
-  - https://www.codewars.com  - для изучения языков, обилие задач и технических приемов
-  - Firecode.io | Coding Interview Answers and Trainer 
+  - [Interview Practice](https://app.codesignal.com/interview-practice)   - средние между leetcode и codewars 
+  - [https://www.codewars.com](https://www.codewars.com)  - для изучения языков, обилие задач и технических приемов
+  - [Firecode.io | Coding Interview Answers and Trainer](https://www.firecode.io/)  
 - Список ресурсов, на которых можно найти рефералов (из какой-то статьи):
-  - https://repher.me/ 
-  - https://www.teamblind.com 
-  - https://www.rooftopslushie.com/  - за деньги
-  - https://triplebyte.com/ 
+  - [https://repher.me/](https://repher.me/) 
+  - [https://www.teamblind.com](https://www.teamblind.com) 
+  - [https://www.rooftopslushie.com/](https://www.rooftopslushie.com/)   - за деньги
+  - [https://triplebyte.com/](https://triplebyte.com/)  
 - Списки компаний по регионам
-  - BigN-style Interview Europe 
-  - Europe companies
+  - [BigN-style Interview Europe](https://docs.google.com/spreadsheets/d/1jJehhHdt1dHHnCtbWqLjc4o-GKBdlDixgma7oJXlBMQ/edit#gid=0)  
+  - [Europe companies](https://docs.google.com/spreadsheets/d/1HTmdCYbdF22n3irlvvdfmfAY7WZDR_-pwlO8FJrYHlY/edit#gid=0) 
 
 ## Английский
 - Сайты для общения с рандомными людьми голос/текст/видео
-  - speaking24.com  - если хочется пообщаться, можно вписать свой скайп или позвонить тем кто онлайн
-  - talkwithstranger.com  - бесплатный чат на английском, много комнат разбитых на разные темы
-  - tohla.com  - бесплатный чат (текст/голос/видео)
-  - omegle.com  - бесплатный чат (текст/видео)
-  - free4talk.com  - бесплатные видеочаты на разных языках, hangouts/и на самом сайте, группы по 2-10 человек
-  - strangermeetup.com - Stranger Meetup
-  - verbling.com  - здесь когда то были бесплатные видеосозвоны в hangouts
-  - italki.com  - платные преподаватели (от $3 в час) комьюнить бесплатно проверяет тексты, эссе, можно заводить друзей
+  - [speaking24.com](http://speaking24.com/)   - если хочется пообщаться, можно вписать свой скайп или позвонить тем кто онлайн
+  - [talkwithstranger.com](https://talkwithstranger.com/)   - бесплатный чат на английском, много комнат разбитых на разные темы
+  - [tohla.com](http://www.tohla.com/)   - бесплатный чат (текст/голос/видео)
+  - [omegle.com](https://www.omegle.com/)   - бесплатный чат (текст/видео)
+  - [free4talk.com](https://www.free4talk.com/)   - бесплатные видеочаты на разных языках, hangouts/и на самом сайте, группы по 2-10 человек
+  - [strangermeetup.com](https://strangermeetup.com/)  - Stranger Meetup
+  - [verbling.com](https://www.verbling.com/)   - здесь когда то были бесплатные видеосозвоны в hangouts
+  - [italki.com](https://www.italki.com/)   - платные преподаватели (от $3 в час) комьюнить бесплатно проверяет тексты, эссе, можно заводить друзей
 - Разные соцсети для языкового обмена
-  - paltalk.com
-  - lang-8
-  - searchy.net
-  - interpals.net
-  - epals.com
-  - easylanguageexchange.com - Easy Language Exchange
-  - conversationexchange.com  - Conversation Exchange
-  - languageforexchange.com - Language for exchange
-  - englishbaby.com
+  - [paltalk.com](https://www.paltalk.com/) 
+  - [lang-8](https://lang-8.com/) 
+  - [searchy.net](https://ppi.searchy.net/) 
+  - [interpals.net](https://www.interpals.net/) 
+  - [epals.com](https://www.epals.com/) 
+  - [easylanguageexchange.com](https://www.easylanguageexchange.com/)  - Easy Language Exchange
+  - [conversationexchange.com](https://www.conversationexchange.com/)   - Conversation Exchange
+  - [languageforexchange.com](https://www.languageforexchange.com/)  - Language for exchange
+  - [englishbaby.com](https://www.englishbaby.com/) 
 - Бесплатные тесты времена/грамматика/итд
-  - englisch-hilfen.de
-  - ego4u.com
-  - esl-lounge.com
-  - manythings.org
-  - correctenglish.ru
-  - examenglish.com - TOEFL reading test
-  - lengish.com
+  - [englisch-hilfen.de](https://www.englisch-hilfen.de/en/) 
+  - [ego4u.com](https://www.ego4u.com/en/) 
+  - [esl-lounge.com](https://www.esl-lounge.com/) 
+  - [manythings.org](http://www.manythings.org/) 
+  - [correctenglish.ru](http://www.correctenglish.ru/tests/) 
+  - [examenglish.com](https://www.examenglish.com/)  - TOEFL reading test
+  - [lengish.com](https://lengish.com/tests/) 
 - Сайты для изучения языка в игровой форме
-  - duolingo.com
-  - lingualeo.com
-  - puzzle-english.com
+  - [duolingo.com](https://www.duolingo.com/) 
+  - [lingualeo.com](https://lingualeo.com/ru/) 
+  - [puzzle-english.com](https://en.puzzle-english.com/) 
 - Аудио книги
-  - loyalbooks.com  - Audiobooks eBooks
-  - Za4itaika.ru  - Free Public Domain Audiobooks
+  - [loyalbooks.com](http://www.loyalbooks.com/)   - Audiobooks eBooks
+  - [Za4itaika.ru](https://za4itaika.ru/Pages/)   - Free Public Domain Audiobooks
 - Видео, тесты
-  - voanews.com  - Voice of America Learning English
-  - bbc.co.uk - BBC Learning English
-  - perfect-english-grammar.com
-  - ted.com - TED Talks
+  - [voanews.com](https://learningenglish.voanews.com/)   - Voice of America Learning English
+  - [bbc.co.uk](http://www.bbc.co.uk/learningenglish/english/course/eiam/unit-1/session-70)  - BBC Learning English
+  - [perfect-english-grammar.com](https://www.perfect-english-grammar.com/present-simple.html) 
+  - [ted.com](https://www.ted.com/talks)  - TED Talks
 - Переводчики, полезные штуки
-  - englishconversationquestions.com  - рандомные вопросы для общения с людьми
-  - forvo.com  - база произношений
-  - cambridge.org  - Cambridge Dictionary
-  - multitran.com  - переводчик multitran
-  - grammarly - проверка грамматики
-  - https://context.reverso.net/translation/  - перевод по контексту, во многих случаях намного полезней гугла переводчика
-  - https://fluent.express -  проверка текста реальными людьми (профессиональными едиторами), платное но к примеру для проверки резюме может пригодится
-  - https://playphrase.me/ - пишешь фразу, сервис показывает отрывки фильмов  с произношением этой фразы.
+  - [englishconversationquestions.com](https://englishconversationquestions.com/)   - рандомные вопросы для общения с людьми
+  - [forvo.com](https://ru.forvo.com/)   - база произношений
+  - [cambridge.org](https://dictionary.cambridge.org/dictionary/english/)   - Cambridge Dictionary
+  - [multitran.com](https://www.multitran.com/)   - переводчик multitran
+  - [grammarly](https://grammarly.com/)  - проверка грамматики
+  - [https://context.reverso.net/translation/](https://context.reverso.net/translation/)   - перевод по контексту, во многих случаях намного полезней гугла переводчика
+  - [https://fluent.express](https://fluent.express)  -  проверка текста реальными людьми (профессиональными едиторами), платное но к примеру для проверки резюме может пригодится
+  - [https://playphrase.me/](https://playphrase.me/)  - пишешь фразу, сервис показывает отрывки фильмов  с произношением этой фразы.
 
