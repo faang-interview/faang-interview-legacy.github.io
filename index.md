@@ -229,13 +229,13 @@
 
 
 ## Переговоры по офферу
-  - [How to Negotiate Your Job Offer - Prof. Deepak Malhotra (Harvard Business School) Video]()
-  - [Ten Rules for Negotiating a Job Offer]()
-  - [Patrick McKenzie | Salary Negotiation: Make More Money, Be More Valued]()
-  - [Salary Negotiation with Haseeb Qureshi]()
-  - [How Not to Bomb Your Offer Negotiation]()
-  - [How I negotiated a $300,000 offer in Silicon Valley]() 
-  - [Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company]()
+  - [How to Negotiate Your Job Offer - Prof. Deepak Malhotra (Harvard Business School) Video](https://www.youtube.com/watch?v=km2Hd_xgo9Q)
+  - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+  - [Patrick McKenzie | Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+  - [Salary Negotiation with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/07/11/salary-negotiation-with-haseeb-qureshi/)
+  - [How Not to Bomb Your Offer Negotiation](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
+  - [How I negotiated a $300,000 offer in Silicon Valley](https://medium.com/@bayareabelletrist/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656) 
+  - [Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company](https://www.amazon.com/Cracking-Tech-Career-Insider-Microsoft-ebook/dp/B00MFPZ9X6)
 
 ## После принятия оффера (в другую страну)
   - Во избежание конфликтов - не говорите своему работодателю что у вас офер. Скажите когда будет виза. Разница между офером и визой может достигать 12 месяцев.
@@ -246,52 +246,149 @@
 
 ## Составление резюме
 - От Ларисы
-  - [Пример хорошего резюме]()
-  - [resume Archives]() - раздел о резюме в блоге Ларисы.
-  - [Resume Checklist или Как Делать Не Надо]()
-  - [Список ключевых слов-достижений]()
-  - [Список активных глаголов для резюме, разбитый по категориям]()
-  - [Как отвечать на вопросы на интервью]()
+  - [Пример хорошего резюме](http://larrr.com/primer-horoshego-rezyume/)
+  - [resume Archives](http://larrr.com/category/resume/) - раздел о резюме в блоге Ларисы.
+  - [Resume Checklist или Как Делать Не Надо](http://larrr.com/resume-checklist-ili-kak-delat-ne-nado/)
+  - [Список ключевых слов-достижений](http://larrr.com/hochu-rabotat-v-google-klyuchevye-slova-pri-sostavlenii-rezyume/)
+  - [Список активных глаголов для резюме, разбитый по категориям](https://www.themuse.com/advice/185-powerful-verbs-that-will-make-your-resume-awesome)
+  - [Как отвечать на вопросы на интервью](https://theinterviewguys.com/star-method/)
 - Видео
-  - [Советы от гугл рекрутеров]()
-  - [7 Tips for the Coding Resume (for Software Engineers) video]()
+  - [Советы от гугл рекрутеров](https://youtu.be/BYUy1yvjHxE)
+  - [7 Tips for the Coding Resume (for Software Engineers) video](https://www.youtube.com/watch?v=xpaz7nrNmXA)
 - Шаблоны
-  - [Result oriented resume templates.]()
+  - [Result oriented resume templates.](https://github.com/darhonbek/resume_templates)
+
 ## Проверка резюме
-По вторникам и субботам в [/r/cscareequestions]() создаются “Resume Advice” тредs, где можно получить фидбек.
-Телеграм канал для обсуждения резюме: [resume_review]()
-[Rooftop Slushie - платно]()
+По вторникам и субботам в [/r/cscareequestions](https://www.reddit.com/r/cscareerquestions/) создаются “Resume Advice” тредs, где можно получить фидбек.
+Телеграм канал для обсуждения резюме: [resume_review](https://t.me/resume_review)
+[Rooftop Slushie - платно](https://www.rooftopslushie.com/resume_review)
 
 ## SRE
 - Разное
-  - [Linux Technical Interview Questions and Answers  (Linux)]() - платный курс
-  - [My Job Interview at Google]()  Google SRE interview on SRE
-  - [What happens when we hit URL in Browser?]() 
-  - [SYSADMIN. The Systems Engineering Side of Site Reliability Engineering]()
-  - [SYSADMIN. Hiring Site Reliability Engineers]()
-  - [https://github.com/mxssl/sre-interview-prep-guide]()
+  - [Linux Technical Interview Questions and Answers  (Linux)](https://www.udemy.com/course/linux-technical-interview-questions-and-answers/) - платный курс
+  - [My Job Interview at Google](https://catonmat.net/my-job-interview-at-google)  Google SRE interview on SRE
+  - [What happens when we hit URL in Browser?](https://www.freecodecamp.org/news/what-happens-when-you-hit-url-in-your-browser/) 
+  - [SYSADMIN. The Systems Engineering Side of Site Reliability Engineering](https://www.usenix.org/system/files/login/articles/login_june_08_hixson.pdf)
+  - [SYSADMIN. Hiring Site Reliability Engineers](https://www.usenix.org/system/files/login/articles/login_june_07_jones.pdf)
+  - [https://github.com/mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide)
 - Почитать
-  - [Site Reliability Engineering]() книга
-  - [Linux System Programming: Talking Directly To The Kernel And C Library]() 
-  - [Systems Performance: Enterprise and the Cloud](), сайт автора [http://www.brendangregg.com]() 
-  - [BPF Performance Tools (Addison-Wesley Professional Computing Series)]() снова  (http://www.brendangregg.com)   
-  - [Operating Systems: Three Easy Pieces]()
-  - [The Linux Programming Interface: A Linux and UNIX System Programming Handbook]()
-  - [Grokking the Mobile System Design interview ]()- По мотивам систем дизайн собесов в ФБ и Гугл на мобильщика написал статейку.
-  - [Yet another mobile architectures comparison]()
-  - [Mobile architecture optimization topics]().
-  - [The System Design Interview For Mobile Developers]().
-  - [Что спрашивают на behavioral и system design интервью, или Как я попал в Facebook]().
-  - [Pagination]().
-  - [A Simple Framework For Mobile System Design Interviews]() - структурированный подход к прохождению систем дизайн интервью для iOS/Android разработчиков.
-
+  - [Site Reliability Engineering](https://landing.google.com/sre/books/) книга
+  - [Linux System Programming: Talking Directly To The Kernel And C Library](https://www.amazon.com/Linux-System-Programming-Talking-Directly/dp/1449339530/ref=sr_1_12?crid=2BXSSOER0QTDS&keywords=linux+programming&qid=1579717475&sprefix=linux%2Caps%2C234&sr=8-12) 
+  - [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/ref=sr_1_2?crid=29XENXAQ8F4U6&keywords=brendan+gregg&qid=1579717501&sprefix=brandan+gre%2Caps%2C243&sr=8-2), сайт автора [http://www.brendangregg.com](http://www.brendangregg.comhttp://www.brendangregg.com) 
+  - [BPF Performance Tools (Addison-Wesley Professional Computing Series)](https://www.amazon.com/Performance-Tools-Addison-Wesley-Professional-Computing/dp/0136554822/ref=sr_1_1?crid=29XENXAQ8F4U6&keywords=brendan+gregg&qid=1579717501&sprefix=brandan+gre%2Caps%2C243&sr=8-1) снова  [http://www.brendangregg.com](http://www.brendangregg.com)  
+  - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+  - [The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200/ref=sr_1_1?crid=2BXSSOER0QTDS&keywords=linux+programming&qid=1579717475&sprefix=linux%2Caps%2C234&sr=8-1)
+  - [Grokking the Mobile System Design interview ](https://medium.com/@goncharov.artemv/grokking-the-mobile-system-design-interview-6a06fa94491b?source=friends_link&sk=5d35ee6ade621e3a8018e048d25f6009)- По мотивам систем дизайн собесов в ФБ и Гугл на мобильщика написал статейку.
+  - [Yet another mobile architectures comparison](https://medium.com/@goncharov.artemv/yet-another-mobile-architectures-comparison-73f4eb39b4a0)
+  - [Mobile architecture optimization topics](https://www.teamblind.com/post/mobile-architecture-mega-list-BXb8Ohvn).
+  - [The System Design Interview For Mobile Developers](https://davescommutebloghome.wpcomstaging.com/author/normand1/page/2/).
+  - [Что спрашивают на behavioral и system design интервью, или Как я попал в Facebook](https://dou.ua/lenta/articles/behavioral-system-design-interview-fb/).
+  - [Pagination](https://slack.engineering/evolving-api-pagination-at-slack/).
+  - [A Simple Framework For Mobile System Design Interviews](https://github.com/weeeBox/mobile-system-design) - структурированный подход к прохождению систем дизайн интервью для iOS/Android разработчиков.
 
 ## Frontend
+- Разное
+  - https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823?gi=1d9930d41bfb - Описание общего объема желательных знаний на позицию Frontend-инженера со ссылками где почитать. Ссылки из статьи на доп. Ресурсы:
+  - Frontend Job Interview Questions — The largest Github repository of frontend interview questions
+  - Cracking the Frontend Interview — A guide by Jonathan White, a Twitter engineer, on how to prepare for frontend interviews
+  - Frontend Developer Handbook 2018 — A guide on Frontend Development and interview preparation created by Frontend Masters
+  - Cracking the Frontend Coding Interview — An article by Alex Pattison, an engineer at Yola, on questions and answers for frontend interviews
+  - https://www.pramp.com/ - Тут есть возможность практиковаться в интервью по тематике Frontend
+  - http://gainlo.co - Платный ресурс для Mock-интервью в том числе по Frontend System Design. Дают развернутый фидбек.
+  - Большой док по фронтенд подготовке в FAANG
+  - System Design for Front End Engineers
+  - Leetcode-like портал, сфокусированный на фронтенде
 
 ## Интернатура
+  - Summer 2020 Internships
+  - Статьи о стажировке в фаанг
+  - Стажировки в международных компаниях: как не завалить интервью и получить заветный оффер
+  - Как попасть на стажировку в Google 
+  - Как попасть на 5 стажировок в ФААНГ
 
 ## Релокация
+  - Релокация в Сингапур: история украинского архитектора Хорошая статья о жизни в Сингапуре, финансах и т.д.
+  - Как попасть в Кремниевую Долину. Video 
+  - https://t.me/FbCovid - мини группа для обсуждения переезда в ФБ Лондон в текущей ситуации с вирусом. Для тех, кто сейчас находится в процессе обсуждения офера или уже подписал его, но еще не переехал из-за вируса
+  - https://t.me/canada_it - чатик айтишников по канаде + полезные чаты по канаде https://canadakaknado.info/#chats
+  - https://relhut.com/visa-sponsors - список спонсоров Tier 2 визы, не только FAANG
+  - https://relhut.com/salary-calculator  - калькурятор базовой зарплаты в ЮК для технических позиций
 
 ## Разное
+- Истории из жизни:
+  - Why I studied full-time for 8 months for a Google interview - Статья про подготовку в Google за 8 месяцев ( ) +русская версия 
+  - Про то, как я попал на интервью в Microsoft Ireland
+  - Подготовка к собеседованию в Microsoft: polycode 
+  - Как подготовиться к собеседованию в Google и не пройти его. Дважды
+- Солянка
+  - Комбинаторика: основные правила и формулы.
+  - Видео на Khan Academy по комбинаторике  (и потом второй блок, там же) - учит выводить комбинаторные формулы (permutations, combinations) на ходу, прикидыванием, а не запоминать их.
+  - Вся правда о собеседованиях в Google: за пределами NDA
+  - Amazon Banned Questions
+  - Amazon 1st round Interview questions (manager level) 
+  - Levels.fyi: Compare salaries and career levels across companies 
+- Книги
+  - Introduction to Information Retrieval (на русском Вильямс книга Введение в информационный поиск )
+Сайты для изучения программирования
+  - Interview Practice  - средние между leetcode и codewars 
+  - https://www.codewars.com  - для изучения языков, обилие задач и технических приемов
+  - Firecode.io | Coding Interview Answers and Trainer 
+- Список ресурсов, на которых можно найти рефералов (из какой-то статьи):
+  - https://repher.me/ 
+  - https://www.teamblind.com 
+  - https://www.rooftopslushie.com/  - за деньги
+  - https://triplebyte.com/ 
+- Списки компаний по регионам
+  - BigN-style Interview Europe 
+  - Europe companies
 
 ## Английский
+- Сайты для общения с рандомными людьми голос/текст/видео
+  - speaking24.com  - если хочется пообщаться, можно вписать свой скайп или позвонить тем кто онлайн
+  - talkwithstranger.com  - бесплатный чат на английском, много комнат разбитых на разные темы
+  - tohla.com  - бесплатный чат (текст/голос/видео)
+  - omegle.com  - бесплатный чат (текст/видео)
+  - free4talk.com  - бесплатные видеочаты на разных языках, hangouts/и на самом сайте, группы по 2-10 человек
+  - strangermeetup.com - Stranger Meetup
+  - verbling.com  - здесь когда то были бесплатные видеосозвоны в hangouts
+  - italki.com  - платные преподаватели (от $3 в час) комьюнить бесплатно проверяет тексты, эссе, можно заводить друзей
+- Разные соцсети для языкового обмена
+  - paltalk.com
+  - lang-8
+  - searchy.net
+  - interpals.net
+  - epals.com
+  - easylanguageexchange.com - Easy Language Exchange
+  - conversationexchange.com  - Conversation Exchange
+  - languageforexchange.com - Language for exchange
+  - englishbaby.com
+- Бесплатные тесты времена/грамматика/итд
+  - englisch-hilfen.de
+  - ego4u.com
+  - esl-lounge.com
+  - manythings.org
+  - correctenglish.ru
+  - examenglish.com - TOEFL reading test
+  - lengish.com
+- Сайты для изучения языка в игровой форме
+  - duolingo.com
+  - lingualeo.com
+  - puzzle-english.com
+- Аудио книги
+  - loyalbooks.com  - Audiobooks eBooks
+  - Za4itaika.ru  - Free Public Domain Audiobooks
+- Видео, тесты
+  - voanews.com  - Voice of America Learning English
+  - bbc.co.uk - BBC Learning English
+  - perfect-english-grammar.com
+  - ted.com - TED Talks
+- Переводчики, полезные штуки
+  - englishconversationquestions.com  - рандомные вопросы для общения с людьми
+  - forvo.com  - база произношений
+  - cambridge.org  - Cambridge Dictionary
+  - multitran.com  - переводчик multitran
+  - grammarly - проверка грамматики
+  - https://context.reverso.net/translation/  - перевод по контексту, во многих случаях намного полезней гугла переводчика
+  - https://fluent.express -  проверка текста реальными людьми (профессиональными едиторами), платное но к примеру для проверки резюме может пригодится
+  - https://playphrase.me/ - пишешь фразу, сервис показывает отрывки фильмов  с произношением этой фразы.
+
