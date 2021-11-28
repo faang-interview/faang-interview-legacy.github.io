@@ -1,10 +1,5 @@
 # FAANG Interview. Бортовые заметки сообщества
 
-## Temp section, to be deleted
-
-- [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
-
 ## Введение
 
 Этот репозиторий создан для “FAANG Interview” сообщества с целью упорядочить полезные ресурсы упоминаемые в чате. Каждая ссылка  в документе должна сопровождаться описанием. Не стесняемся слать pull реквесты и делать репозиторий лучше с каждым днем.
@@ -43,10 +38,10 @@
 ## Разные полезные ссылки
 
 - Сайты где можно решать задачи:
-  - https://leetcode.com/
-  - https://www.interviewbit.com/
+  - [https://leetcode.com/](https://leetcode.com/)
+  - [https://www.interviewbit.com/](https://www.interviewbit.com/)
  - Как попасть в Google: инструкция по подготовке - статья Сергея Семы о подготовке к интервью в фаанг.
- - http://larrr.com/ - блог Ларисы о Гугл, интервью, жизни в долине. 
+ - [http://larrr.com/](http://larrr.com/) - блог Ларисы о Гугл, интервью, жизни в долине. 
   - [Хочу работать в Google: Read Me First!](http://larrr.com/wp-content/uploads/2016/10/InterviewPreparationGuide.pdf) - подборка материалов по подготовке
   - https://t.me/empireinthemaking - телеграмм канал Ларисы
 - Cracking the coding interview book  - книга, ставшая классикой при подготовке
