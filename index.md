@@ -1,5 +1,10 @@
 # FAANG Interview. Бортовые заметки сообщества
 
+## Temp section, to be deleted
+
+- [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
+
 ## Введение
 
 Этот репозиторий создан для “FAANG Interview” сообщества с целью упорядочить полезные ресурсы упоминаемые в чате. Каждая ссылка  в документе должна сопровождаться описанием. Не стесняемся слать pull реквесты и делать репозиторий лучше с каждым днем.
@@ -42,12 +47,12 @@
   - https://www.interviewbit.com/
  - Как попасть в Google: инструкция по подготовке - статья Сергея Семы о подготовке к интервью в фаанг.
  - http://larrr.com/ - блог Ларисы о Гугл, интервью, жизни в долине. 
-  -- [Хочу работать в Google: Read Me First!](http://larrr.com/wp-content/uploads/2016/10/InterviewPreparationGuide.pdf) - подборка материалов по подготовке
-  -- https://t.me/empireinthemaking - телеграмм канал Ларисы
+  - [Хочу работать в Google: Read Me First!](http://larrr.com/wp-content/uploads/2016/10/InterviewPreparationGuide.pdf) - подборка материалов по подготовке
+  - https://t.me/empireinthemaking - телеграмм канал Ларисы
 - Cracking the coding interview book  - книга, ставшая классикой при подготовке
 - Mock  интервью
-  - https://www.pramp.com/#/ -  парные мок интервью
-  - http://www.gainlo.co/  платный. позволяет собеседоваться с реальными сотрудниками из ФААНГ. сайт гарантирует это. цена указывается своя на каждого интервьюера, от 100 до 200 долларов за мок. обещают подробный фидбэк после мока. Another opinion about the service.
+  - [https://www.pramp.com/](https://www.pramp.com/#/) -  парные мок интервью
+  - [http://www.gainlo.co/](http://www.gainlo.co/)  платный. позволяет собеседоваться с реальными сотрудниками из ФААНГ. сайт гарантирует это. цена указывается своя на каждого интервьюера, от 100 до 200 долларов за мок. обещают подробный фидбэк после мока. Another opinion about the service.
   - https://interviewing.io/ - Practice interviewing with engineers from Google, Facebook, and more... anonymously. Price varies $100-200.
 - Гайды по подготовке к интервью:
   - [Interview preparation Guide](https://paper.dropbox.com/doc/Interview-Preparation-Guide-PHeQLxMXugqC1vz72wgtX) - подборка ссылок на полезные репозитории, видео, курсы, и книги.
@@ -316,8 +321,8 @@
   - [Подготовка к собеседованию в Microsoft: polycode](https://polycode.livejournal.com/29426.html) 
   - [Как подготовиться к собеседованию в Google и не пройти его. Дважды](https://habr.com/ru/post/419945/) 
 - Солянка
-  - Комбинаторика: основные правила и формулы](https://ya-znau.ru/znaniya/zn/80) .
-  - Видео на Khan Academy по комбинаторике](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/factorial-and-counting-seat-arrangements)   (и потом [второй блок](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations), там же) - учит выводить комбинаторные формулы (permutations, combinations) на ходу, прикидыванием, а не запоминать их.
+  - [Комбинаторика: основные правила и формулы](https://ya-znau.ru/znaniya/zn/80) .
+  - [Видео на Khan Academy по комбинаторике](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:prob-comb/x9e81a4f98389efdf:combinatorics-precalc/v/factorial-and-counting-seat-arrangements)   (и потом [второй блок](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations), там же) - учит выводить комбинаторные формулы (permutations, combinations) на ходу, прикидыванием, а не запоминать их.
   - [Вся правда о собеседованиях в Google: за пределами NDA](http://blogerator.org/page/google) 
   - [Amazon Banned Questions](https://docs.google.com/spreadsheets/d/1bJRbxssWmP5C8iv5MQvOkh4k2LeCgLsjbaosrIBVPf0/edit#gid=0) 
   - [Amazon 1st round Interview questions (manager level)](https://www.reddit.com/r/ITCareerQuestions/comments/cz9ctv/amazon_1st_round_interview_questions_manager_level/?utm_medium=android_app&utm_source=share)  
