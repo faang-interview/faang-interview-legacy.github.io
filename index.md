@@ -1,10 +1,5 @@
 # FAANG Interview. Бортовые заметки сообщества
 
-## Temp section, to be deleted
-
-- [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
-
 ## Введение
 
 Этот репозиторий создан для “FAANG Interview” сообщества с целью упорядочить полезные ресурсы упоминаемые в чате. Каждая ссылка  в документе должна сопровождаться описанием. Не стесняемся слать pull реквесты и делать репозиторий лучше с каждым днем.
