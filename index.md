@@ -1,4 +1,6 @@
-# FAANG Interview. Бортовые заметки сообщества
+
+# [LEGACY] FAANG Interview. Бортовые заметки сообщества
+Это устаревшая версия, нова версия доступна по ссылке [faang-interview.github.io](https://github.com/faang-interview/faang-interview.github.io)
 
 ## Введение
 
