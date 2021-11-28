@@ -40,11 +40,11 @@
 - Сайты где можно решать задачи:
   - [https://leetcode.com/](https://leetcode.com/)
   - [https://www.interviewbit.com/](https://www.interviewbit.com/)
- - Как попасть в Google: инструкция по подготовке - статья Сергея Семы о подготовке к интервью в фаанг.
+ - [Как попасть в Google: инструкция по подготовке](https://dou.ua/lenta/articles/google-interview/) - статья Сергея Семы о подготовке к интервью в фаанг.
  - [http://larrr.com/](http://larrr.com/) - блог Ларисы о Гугл, интервью, жизни в долине. 
   - [Хочу работать в Google: Read Me First!](http://larrr.com/wp-content/uploads/2016/10/InterviewPreparationGuide.pdf) - подборка материалов по подготовке
   - https://t.me/empireinthemaking - телеграмм канал Ларисы
-- Cracking the coding interview book  - книга, ставшая классикой при подготовке
+- [Cracking the coding interview book](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)  - книга, ставшая классикой при подготовке
 - Mock  интервью
   - [https://www.pramp.com/](https://www.pramp.com/#/) -  парные мок интервью
   - [http://www.gainlo.co/](http://www.gainlo.co/)  платный. позволяет собеседоваться с реальными сотрудниками из ФААНГ. сайт гарантирует это. цена указывается своя на каждого интервьюера, от 100 до 200 долларов за мок. обещают подробный фидбэк после мока. Another opinion about the service.
